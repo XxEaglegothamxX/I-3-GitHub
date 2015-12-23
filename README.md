@@ -1,2 +1,4 @@
-# I-3-GitHub
+# I <3 GitHub
 My First Repository on GitHub
+
+Hi!
